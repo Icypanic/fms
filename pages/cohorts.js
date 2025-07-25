@@ -1,6 +1,6 @@
 import Header from '../components/Header';
 
-export default function Training() {
+export default function Cohorts() {
   return (
     <div className="bg-primary min-h-screen text-white">
       <Header />
